@@ -35,6 +35,12 @@ http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
 #EXTINF:-1 group-title="中央台",CCTV17
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
+#EXTINF:-1 group-title="中央台",中央新影中学生
+http://112.86.202.37:8112/JSBC_iptv/C10000471@JSBC
+#EXTINF:-1 group-title="中央台",CCTV4K
+http://112.86.202.37:8112/JSBC_iptv/C10000473@JSBC
+#EXTINF:-1 group-title="中央台",CCTV16 4K
+http://112.86.202.37:8112/JSBC_iptv/C10000474@JSBC
 #EXTINF:-1 group-title="卫视4K",北京卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000435@JSBC
 #EXTINF:-1 group-title="卫视4K",广东卫视4K
@@ -57,6 +63,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000465@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000482@JSBC
 #EXTINF:-1 group-title="卫视4K",辽宁卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000481@JSBC
+#EXTINF:-1 group-title="卫视4K",贵州卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000484@JSBC
 #EXTINF:-1 group-title="卫视台",湖南卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC
 #EXTINF:-1 group-title="卫视台",浙江卫视
